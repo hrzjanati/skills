@@ -426,3 +426,13 @@ Claude Code: `~/.claude/skills` · Codex: `~/.agents/skills`. ChatGPT وب با 
 ## مشارکت و امنیت
 
 پیشنهاد و گزارش خطا را در [Issues](https://github.com/hrzjanati/skills/issues) ثبت کنید. کلید واقعی، داده خصوصی و کد اختصاصی را منتشر نکنید. تست نفوذ و مهندسی معکوس فقط در محدوده مجاز انجام شوند.
+
+## 🌍 بومی‌سازی و چندزبانه بودن
+
+[localization-i18n](localization-i18n/SKILL.md) — تمام متن‌های نمایشی در فایل‌های ترجمه، ممنوعیت متن فارسی هاردکد در سورس و کامنت‌ها، پشتیبانی RTL و کنترل ترجمه‌ها در CI. این اسکیل در بسته استارتاپ نیز نصب می‌شود.
+
+```bash
+npx hrzjanati-skills@latest install localization-i18n --agent both --yes
+```
+
+متن فارسی در مستندات، فایل ترجمه و داده کاربر مجاز است؛ نه در کد اجرایی.

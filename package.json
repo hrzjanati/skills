@@ -1,6 +1,6 @@
 {
   "name": "hrzjanati-skills",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Independent AI agent skills and startup kit for Claude Code and OpenAI Codex",
   "type": "module",
   "bin": {
@@ -37,7 +37,8 @@
     "kavenegar-sms",
     "sabanovin-sms",
     "zibal-payment",
-    "reverse-engineering-fa"
+    "reverse-engineering-fa",
+    "localization-i18n"
   ],
   "scripts": {
     "test": "node --test",
