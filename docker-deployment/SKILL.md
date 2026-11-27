@@ -12,3 +12,6 @@ Use pinned compatible bases, multi-stage build where useful, .dockerignore, non-
 ## Completion
 
 Report what changed, checks actually performed, failures and unresolved risks. Do not claim success without evidence.
+
+## Release gate
+Build and smoke-test a container locally or in CI, with synthetic environment and isolated PostgreSQL. Run migration checks, compilemessages, collectstatic, manage.py check --deploy (review findings), health endpoint and worker readiness. Verify .env excluded. Coordinate migration once, backup and rollback. Only deploy to the real Darkube environment with required authorization; report actual running revision and HTTPS response.

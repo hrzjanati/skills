@@ -12,3 +12,6 @@ Require local .env (untracked), committed .env.example with names and safe place
 ## Completion
 
 Report what changed, checks actually performed, failures and unresolved risks. Do not claim success without evidence.
+
+## Deployment checklist
+Keep .env local and untracked; commit names only in .env.example. Add .env and secret variants to .gitignore and .dockerignore with exception for .env.example. Validate required production variables, including SECRET_KEY and OTP_HMAC_KEY when used; generate distinct high-entropy secrets. DEBUG=False in production. Define runtime values in Darkube; do not expose via build args, image layers, logs or frontend. Use distinct local/test/staging/production credentials; confirm names and presence without revealing values.

@@ -12,3 +12,6 @@ Threat-model assets and trust boundaries. Enforce object-level permissions, tena
 ## Completion
 
 Report what changed, checks actually performed, failures and unresolved risks. Do not claim success without evidence.
+
+## Authentication gate
+Use django-otp-auth for passwordless authentication; never store raw OTP, trust unverified registration inputs or resolve ambiguous identities. Require atomic single-use verification, throttling and session rotation. Stronger MFA for privileged accounts.

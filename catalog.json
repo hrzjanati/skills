@@ -1,0 +1,122 @@
+[
+  {
+    "name": "startup-planning",
+    "description": "تحلیل محصول، تعیین MVP و معیار پذیرش"
+  },
+  {
+    "name": "startup-orchestrator",
+    "description": "مدیریت گردش کار کامل ساخت استارتاپ"
+  },
+  {
+    "name": "frontend-design",
+    "description": "طراحی UI/UX، سیستم طراحی و UI/UX Pro Max"
+  },
+  {
+    "name": "web-development",
+    "description": "پیاده‌سازی وب واکنش‌گرا و کامپوننت‌ها"
+  },
+  {
+    "name": "python-development",
+    "description": "استانداردهای توسعه پایتون"
+  },
+  {
+    "name": "django-architecture",
+    "description": "معماری ماژولار جنگو، اپ مستقل برای فیچر بزرگ و تست داخل اپ"
+  },
+  {
+    "name": "django-api",
+    "description": "طراحی API، اعتبارسنجی و کنترل دسترسی"
+  },
+  {
+    "name": "python-testing",
+    "description": "تست پایتون با ایزوله‌سازی شبکه و سرویس پولی"
+  },
+  {
+    "name": "webapp-testing",
+    "description": "تست رابط کاربری و مرورگر با Playwright"
+  },
+  {
+    "name": "secure-coding",
+    "description": "کدنویسی امن و محافظت داده‌ها"
+  },
+  {
+    "name": "penetration-testing",
+    "description": "ارزیابی امنیتی مجاز و غیرمخرب"
+  },
+  {
+    "name": "environment-secrets",
+    "description": "مدیریت .env و متغیرهای محیطی هم‌روش"
+  },
+  {
+    "name": "database-design",
+    "description": "طراحی دیتابیس، تراکنش و مهاجرت"
+  },
+  {
+    "name": "code-review",
+    "description": "بازبینی کد و ریسک تغییرات"
+  },
+  {
+    "name": "systematic-debugging",
+    "description": "عیب‌یابی مبتنی بر شواهد"
+  },
+  {
+    "name": "docker-deployment",
+    "description": "ساخت Docker و استقرار"
+  },
+  {
+    "name": "hamravesh-darkube",
+    "description": "اتصال و دیپلوی روی دارکوب هم‌روش"
+  },
+  {
+    "name": "github-ci-cd",
+    "description": "خط لوله تست و انتشار در GitHub"
+  },
+  {
+    "name": "monitoring-logging",
+    "description": "لاگ، Sentry و مانیتورینگ"
+  },
+  {
+    "name": "performance-optimization",
+    "description": "اندازه‌گیری و بهینه‌سازی عملکرد"
+  },
+  {
+    "name": "seo-accessibility",
+    "description": "سئو و دسترس‌پذیری"
+  },
+  {
+    "name": "skill-creator",
+    "description": "ساخت و ارزیابی اسکیل"
+  },
+  {
+    "name": "kavenegar-sms",
+    "description": "کاوه‌نگار، OTP و پیامک سیستمی"
+  },
+  {
+    "name": "sabanovin-sms",
+    "description": "صبانوین، یادآوری و وضعیت تحویل"
+  },
+  {
+    "name": "zibal-payment",
+    "description": "زیبال، تأیید پرداخت و تسویه بدون تکرار"
+  },
+  {
+    "name": "reverse-engineering-fa",
+    "description": "مهندسی معکوس مجاز و مستند با REA و گزارش فارسی"
+  },
+  {
+    "name": "localization-i18n",
+    "description": "Internationalization, locale catalogs, Persian RTL, and prohibition of hardcoded user-facing text"
+  },
+  {
+    "name": "django-user-model",
+    "description": "Build a secure custom Django user model with UUID identity, mobile login and optional Iranian identity verification and family profiles."
+  },
+  {
+    "name": "django-otp-auth",
+    "description": "Implement secure SMS OTP login and registration in Django with Kavenegar, replay prevention, rate limits and isolated tests."
+  },
+  {
+    "name": "django-accounts",
+    "description": "Build a modular Django accounts app for signup, OTP login, profiles, authorization, active sessions and optional family identity workflows."
+  }
+]
