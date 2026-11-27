@@ -48,3 +48,11 @@
 - [startup-orchestrator](startup-orchestrator/SKILL.md): Coordinate startup development from idea through design, backend, testing, security and release.
 
 منابع خارجی به‌صورت لینک معرفی شده‌اند، نه نسخه کپی‌شده. قواعد دائمی هر پروژه را در AGENTS.md و CLAUDE.md ثبت کنید. هیچ کلید واقعی یا سورس خصوصی در این مجموعه قرار ندهید.
+
+## سرویس‌های ایرانی
+
+- [کاوه‌نگار — kavenegar-sms](kavenegar-sms/SKILL.md)
+- [صبانوین — sabanovin-sms](sabanovin-sms/SKILL.md)
+- [درگاه پرداخت زیبال — zibal-payment](zibal-payment/SKILL.md)
+
+هر اسکیل نمونه متغیرهای محیطی بدون رمز واقعی دارد. تست‌ها باید با mock انجام شوند.

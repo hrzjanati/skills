@@ -12,3 +12,7 @@ Inspect project state and user scope first. Use startup-planning for MVP; fronte
 ## Completion
 
 Report what changed, checks actually performed, failures and unresolved risks. Do not claim success without evidence.
+
+## Iranian service integrations
+
+When needed, use kavenegar-sms for OTP/system SMS, sabanovin-sms for customer SMS/reminders and zibal-payment for payment gateway integration. Follow environment-secrets and python-testing; never run real paid requests without explicit authorization.
