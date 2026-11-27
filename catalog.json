@@ -106,5 +106,17 @@
   {
     "name": "localization-i18n",
     "description": "Internationalization, locale catalogs, Persian RTL, and prohibition of hardcoded user-facing text"
+  },
+  {
+    "name": "django-user-model",
+    "description": "Build a secure custom Django user model with UUID identity, mobile login and optional Iranian identity verification and family profiles."
+  },
+  {
+    "name": "django-otp-auth",
+    "description": "Implement secure SMS OTP login and registration in Django with Kavenegar, replay prevention, rate limits and isolated tests."
+  },
+  {
+    "name": "django-accounts",
+    "description": "Build a modular Django accounts app for signup, OTP login, profiles, authorization, active sessions and optional family identity workflows."
   }
 ]

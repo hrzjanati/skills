@@ -436,3 +436,17 @@ npx hrzjanati-skills@latest install localization-i18n --agent both --yes
 ```
 
 متن فارسی در مستندات، فایل ترجمه و داده کاربر مجاز است؛ نه در کد اجرایی.
+
+## 👤 حساب کاربری و احراز هویت
+
+| اسکیل | کاربرد | سورس |
+| --- | --- | --- |
+| django-user-model | مدل UUID، موبایل تأییدشده و تفکیک شناسه ورود از شماره سرپرست | [راهنما](django-user-model/SKILL.md) |
+| django-otp-auth | ورود و ثبت‌نام OTP امن با کاوه‌نگار، انقضا، محدودیت تلاش و جلوگیری از استفاده مجدد | [راهنما](django-otp-auth/SKILL.md) |
+| django-accounts | ساخت اپ حساب، پروفایل، نشست و دسترسی‌ها | [راهنما](django-accounts/SKILL.md) |
+
+هر سه در بسته startup هم قرار دارند. پس از نصب، از startup-orchestrator بخواهید پروژه را مرحله‌به‌مرحله از معماری و locale تا تست، Docker و استقرار مجاز هم‌روش بسازد. دسترسی و تنظیمات واقعی هم‌روش همچنان لازم‌اند.
+
+```bash
+npx hrzjanati-skills@latest install django-user-model django-otp-auth django-accounts --agent both --yes
+```
