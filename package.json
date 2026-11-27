@@ -1,6 +1,6 @@
 {
   "name": "hrzjanati-skills",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Independent AI agent skills and startup kit for Claude Code and OpenAI Codex",
   "type": "module",
   "bin": {
@@ -57,5 +57,24 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "keywords": [
+    "ai-agent",
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "django",
+    "python",
+    "startup",
+    "iran",
+    "persian",
+    "otp",
+    "i18n",
+    "kavenegar",
+    "sabanovin",
+    "zibal",
+    "hamravesh",
+    "docker"
+  ],
+  "author": "hrzjanati"
 }
