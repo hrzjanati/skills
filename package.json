@@ -1,0 +1,57 @@
+{
+  "name": "hrzjanati-skills",
+  "version": "0.1.0",
+  "description": "Independent AI agent skills and startup kit for Claude Code and OpenAI Codex",
+  "type": "module",
+  "bin": {
+    "hrzjanati-skills": "bin/cli.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "bin",
+    "catalog.json",
+    "startup-planning",
+    "startup-orchestrator",
+    "frontend-design",
+    "web-development",
+    "python-development",
+    "django-architecture",
+    "django-api",
+    "python-testing",
+    "webapp-testing",
+    "secure-coding",
+    "penetration-testing",
+    "environment-secrets",
+    "database-design",
+    "code-review",
+    "systematic-debugging",
+    "docker-deployment",
+    "hamravesh-darkube",
+    "github-ci-cd",
+    "monitoring-logging",
+    "performance-optimization",
+    "seo-accessibility",
+    "skill-creator",
+    "kavenegar-sms",
+    "sabanovin-sms",
+    "zibal-payment",
+    "reverse-engineering-fa"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "packcheck": "npm pack --dry-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrzjanati/skills.git"
+  },
+  "homepage": "https://github.com/hrzjanati/skills",
+  "bugs": {
+    "url": "https://github.com/hrzjanati/skills/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
