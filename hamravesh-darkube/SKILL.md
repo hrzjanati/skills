@@ -20,7 +20,7 @@ Use these values for `hrzjanati/zoul` after checking the current revision. The l
 
 | Darkube setting | Value |
 | --- | --- |
-| Git source | Private GitHub repository `hrzjanati/zoul`, branch `main` by default |
+| Git source | Public GitHub repository `hrzjanati/zoul` (or the user's own fork, which may be private), branch `main` by default |
 | Dockerfile and context | `./Dockerfile`, `.` |
 | Service port | `8000` |
 | Start command | Keep the image entrypoint |
