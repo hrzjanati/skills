@@ -105,7 +105,7 @@
   },
   {
     "name": "localization-i18n",
-    "description": "Internationalization, locale catalogs, Persian RTL, and prohibition of hardcoded user-facing text"
+    "description": "ترجمه، فایل‌های locale، راست‌به‌چپ و ممنوعیت متن فارسی هاردکد"
   },
   {
     "name": "django-user-model",

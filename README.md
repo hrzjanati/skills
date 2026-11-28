@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hrzjanati/skills/startup-skills-kit/assets/banner.svg" alt="HRZJanati Skills — 30 agent skills, from idea to production" width="100%">
+<img src="https://raw.githubusercontent.com/hrzjanati/skills/main/assets/banner.svg" alt="HRZJanati Skills — 30 agent skills, from idea to production" width="100%">
 
 **مجموعه ۳۰ اسکیل تخصصی برای توسعه نرم‌افزار و ساخت استارتاپ**
 
@@ -40,9 +40,9 @@ npx hrzjanati-skills@latest setup
 <a id="workflow"></a>
 ## 🧭 از ایده تا محصول | Startup workflow
 
-<img src="https://raw.githubusercontent.com/hrzjanati/skills/startup-skills-kit/assets/workflow.svg" alt="Plan, design, build, test, secure, deploy, monitor" width="100%">
+<img src="https://raw.githubusercontent.com/hrzjanati/skills/main/assets/workflow.svg" alt="Plan, design, build, test, secure, deploy, monitor" width="100%">
 
-پس از نصب، این درخواست را به دستیار بدهید:
+پس از نصب، فقط همین یک درخواست را به دستیار بدهید. اسکیل مادر یک‌بار سؤال‌های لازم را می‌پرسد و بعد همهٔ مراحل را خودش تا آخر انجام می‌دهد؛ فقط برای واردکردن کلیدها، کارهای پولی و دسترسی استقرار منتظر شما می‌ماند:
 
 > با استفاده از startup-orchestrator و اسکیل‌های hrzjanati، پروژه من را از صفر طراحی و پیاده‌سازی کن. معماری، حساب کاربری، OTP، ترجمه، امنیت، تست و Docker را رعایت کن و با مجوزهای لازم روی هم‌روش مستقر کن.
 
@@ -57,61 +57,61 @@ npx hrzjanati-skills@latest setup
 
 | اسکیل | کاربرد |
 | --- | --- |
-| [`startup-planning`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/startup-planning/SKILL.md) | تعریف MVP و معیار پذیرش |
-| [`startup-orchestrator`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/startup-orchestrator/SKILL.md) | مدیریت کل پروژه از ایده تا استقرار |
-| [`frontend-design`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/frontend-design/SKILL.md) | طراحی UI/UX و سیستم طراحی |
-| [`web-development`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/web-development/SKILL.md) | رابط واکنش‌گرا و توسعه وب |
-| [`localization-i18n`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/localization-i18n/SKILL.md) | ترجمه، RTL و ممنوعیت متن فارسی هاردکد |
+| [`startup-planning`](https://github.com/hrzjanati/skills/blob/main/startup-planning/SKILL.md) | تعریف MVP و معیار پذیرش |
+| [`startup-orchestrator`](https://github.com/hrzjanati/skills/blob/main/startup-orchestrator/SKILL.md) | مدیریت کل پروژه از ایده تا استقرار |
+| [`frontend-design`](https://github.com/hrzjanati/skills/blob/main/frontend-design/SKILL.md) | طراحی UI/UX و سیستم طراحی |
+| [`web-development`](https://github.com/hrzjanati/skills/blob/main/web-development/SKILL.md) | رابط واکنش‌گرا و توسعه وب |
+| [`localization-i18n`](https://github.com/hrzjanati/skills/blob/main/localization-i18n/SKILL.md) | ترجمه، RTL و ممنوعیت متن فارسی هاردکد |
 
 ### 🐍 بک‌اند و حساب کاربری
 
 | اسکیل | کاربرد |
 | --- | --- |
-| [`python-development`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/python-development/SKILL.md) | استانداردهای پایتون |
-| [`django-architecture`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/django-architecture/SKILL.md) | معماری ماژولار و ساختار اپ‌ها |
-| [`django-api`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/django-api/SKILL.md) | API، اعتبارسنجی و مجوزها |
-| [`database-design`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/database-design/SKILL.md) | دیتابیس، تراکنش و مهاجرت |
-| [`django-user-model`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/django-user-model/SKILL.md) | مدل اختصاصی User، UUID و هویت تأییدشده |
-| [`django-accounts`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/django-accounts/SKILL.md) | حساب، پروفایل، دسترسی و نشست‌ها |
-| [`django-otp-auth`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/django-otp-auth/SKILL.md) | ورود و ثبت‌نام OTP امن و یک‌بارمصرف |
+| [`python-development`](https://github.com/hrzjanati/skills/blob/main/python-development/SKILL.md) | استانداردهای پایتون |
+| [`django-architecture`](https://github.com/hrzjanati/skills/blob/main/django-architecture/SKILL.md) | معماری ماژولار و ساختار اپ‌ها |
+| [`django-api`](https://github.com/hrzjanati/skills/blob/main/django-api/SKILL.md) | API، اعتبارسنجی و مجوزها |
+| [`database-design`](https://github.com/hrzjanati/skills/blob/main/database-design/SKILL.md) | دیتابیس، تراکنش و مهاجرت |
+| [`django-user-model`](https://github.com/hrzjanati/skills/blob/main/django-user-model/SKILL.md) | مدل اختصاصی User، UUID و هویت تأییدشده |
+| [`django-accounts`](https://github.com/hrzjanati/skills/blob/main/django-accounts/SKILL.md) | حساب، پروفایل، دسترسی و نشست‌ها |
+| [`django-otp-auth`](https://github.com/hrzjanati/skills/blob/main/django-otp-auth/SKILL.md) | ورود و ثبت‌نام OTP امن و یک‌بارمصرف |
 
 ### 🇮🇷 سرویس‌های ایرانی
 
 | اسکیل | کاربرد |
 | --- | --- |
-| [`kavenegar-sms`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/kavenegar-sms/SKILL.md) | پیامک سیستمی و OTP کاوه‌نگار |
-| [`sabanovin-sms`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/sabanovin-sms/SKILL.md) | پیامک مشتریان و وضعیت تحویل صبانوین |
-| [`zibal-payment`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/zibal-payment/SKILL.md) | پرداخت، Callback و تأیید تراکنش زیبال |
+| [`kavenegar-sms`](https://github.com/hrzjanati/skills/blob/main/kavenegar-sms/SKILL.md) | پیامک سیستمی و OTP کاوه‌نگار |
+| [`sabanovin-sms`](https://github.com/hrzjanati/skills/blob/main/sabanovin-sms/SKILL.md) | پیامک مشتریان و وضعیت تحویل صبانوین |
+| [`zibal-payment`](https://github.com/hrzjanati/skills/blob/main/zibal-payment/SKILL.md) | پرداخت، Callback و تأیید تراکنش زیبال |
 
 ### 🛡️ کیفیت و امنیت
 
 | اسکیل | کاربرد |
 | --- | --- |
-| [`python-testing`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/python-testing/SKILL.md) | تست واحد و یکپارچه بدون تماس پولی |
-| [`webapp-testing`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/webapp-testing/SKILL.md) | تست مرورگر و رابط کاربری |
-| [`secure-coding`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/secure-coding/SKILL.md) | امنیت، مجوزها و محافظت داده |
-| [`penetration-testing`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/penetration-testing/SKILL.md) | ارزیابی امنیتی مجاز و غیرمخرب |
-| [`code-review`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/code-review/SKILL.md) | بازبینی کد و ریسک تغییرات |
-| [`systematic-debugging`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/systematic-debugging/SKILL.md) | عیب‌یابی مبتنی بر شواهد |
-| [`performance-optimization`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/performance-optimization/SKILL.md) | بهینه‌سازی مبتنی بر اندازه‌گیری |
-| [`seo-accessibility`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/seo-accessibility/SKILL.md) | سئو و دسترس‌پذیری |
+| [`python-testing`](https://github.com/hrzjanati/skills/blob/main/python-testing/SKILL.md) | تست واحد و یکپارچه بدون تماس پولی |
+| [`webapp-testing`](https://github.com/hrzjanati/skills/blob/main/webapp-testing/SKILL.md) | تست مرورگر و رابط کاربری |
+| [`secure-coding`](https://github.com/hrzjanati/skills/blob/main/secure-coding/SKILL.md) | امنیت، مجوزها و محافظت داده |
+| [`penetration-testing`](https://github.com/hrzjanati/skills/blob/main/penetration-testing/SKILL.md) | ارزیابی امنیتی مجاز و غیرمخرب |
+| [`code-review`](https://github.com/hrzjanati/skills/blob/main/code-review/SKILL.md) | بازبینی کد و ریسک تغییرات |
+| [`systematic-debugging`](https://github.com/hrzjanati/skills/blob/main/systematic-debugging/SKILL.md) | عیب‌یابی مبتنی بر شواهد |
+| [`performance-optimization`](https://github.com/hrzjanati/skills/blob/main/performance-optimization/SKILL.md) | بهینه‌سازی مبتنی بر اندازه‌گیری |
+| [`seo-accessibility`](https://github.com/hrzjanati/skills/blob/main/seo-accessibility/SKILL.md) | سئو و دسترس‌پذیری |
 
 ### 🚀 زیرساخت و انتشار
 
 | اسکیل | کاربرد |
 | --- | --- |
-| [`environment-secrets`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/environment-secrets/SKILL.md) | مدیریت امن .env و متغیرهای محیطی |
-| [`docker-deployment`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/docker-deployment/SKILL.md) | ساخت Docker و بررسی سلامت کانتینر |
-| [`github-ci-cd`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/github-ci-cd/SKILL.md) | خط لوله تست و انتشار |
-| [`hamravesh-darkube`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/hamravesh-darkube/SKILL.md) | استقرار دارکوب، تنظیم ENV و سلامت |
-| [`monitoring-logging`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/monitoring-logging/SKILL.md) | مانیتورینگ، لاگ و خطاها |
+| [`environment-secrets`](https://github.com/hrzjanati/skills/blob/main/environment-secrets/SKILL.md) | مدیریت امن .env و متغیرهای محیطی |
+| [`docker-deployment`](https://github.com/hrzjanati/skills/blob/main/docker-deployment/SKILL.md) | ساخت Docker و بررسی سلامت کانتینر |
+| [`github-ci-cd`](https://github.com/hrzjanati/skills/blob/main/github-ci-cd/SKILL.md) | خط لوله تست و انتشار |
+| [`hamravesh-darkube`](https://github.com/hrzjanati/skills/blob/main/hamravesh-darkube/SKILL.md) | استقرار دارکوب، تنظیم ENV و سلامت |
+| [`monitoring-logging`](https://github.com/hrzjanati/skills/blob/main/monitoring-logging/SKILL.md) | مانیتورینگ، لاگ و خطاها |
 
 ### 🧰 ابزارهای تخصصی
 
 | اسکیل | کاربرد |
 | --- | --- |
-| [`skill-creator`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/skill-creator/SKILL.md) | ساخت و ارزیابی اسکیل |
-| [`reverse-engineering-fa`](https://github.com/hrzjanati/skills/blob/startup-skills-kit/reverse-engineering-fa/SKILL.md) | مهندسی معکوس مجاز، مکمل REA |
+| [`skill-creator`](https://github.com/hrzjanati/skills/blob/main/skill-creator/SKILL.md) | ساخت و ارزیابی اسکیل |
+| [`reverse-engineering-fa`](https://github.com/hrzjanati/skills/blob/main/reverse-engineering-fa/SKILL.md) | مهندسی معکوس مجاز، مکمل REA |
 
 ### 📥 نمونه نصب مستقل
 
