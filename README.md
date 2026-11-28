@@ -42,7 +42,7 @@ npx hrzjanati-skills@latest setup
 
 <img src="https://raw.githubusercontent.com/hrzjanati/skills/main/assets/workflow.svg" alt="Plan, design, build, test, secure, deploy, monitor" width="100%">
 
-پس از نصب، این درخواست را به دستیار بدهید:
+پس از نصب، فقط همین یک درخواست را به دستیار بدهید. اسکیل مادر یک‌بار سؤال‌های لازم را می‌پرسد و بعد همهٔ مراحل را خودش تا آخر انجام می‌دهد؛ فقط برای واردکردن کلیدها، کارهای پولی و دسترسی استقرار منتظر شما می‌ماند:
 
 > با استفاده از startup-orchestrator و اسکیل‌های hrzjanati، پروژه من را از صفر طراحی و پیاده‌سازی کن. معماری، حساب کاربری، OTP، ترجمه، امنیت، تست و Docker را رعایت کن و با مجوزهای لازم روی هم‌روش مستقر کن.
 

@@ -5,6 +5,14 @@ description: Coordinate startup development from idea through design, backend, t
 
 # startup-orchestrator
 
+## One request, whole startup
+
+This skill is built for a single request such as "build my startup". Treat that request as permission to run every gate below end to end without waiting between steps.
+
+1. **Ask once, up front.** Collect everything you cannot infer in one short message: product idea and target users, language(s), whether accounts/OTP, SMS or payments are needed, and whether to deploy to Hamravesh (app name, domain). If the user gave no answer to an item, pick the safe default (Persian + English, no paid integrations, no deploy), state it, and continue.
+2. **Then keep going.** Move from gate to gate on your own, fix failing checks yourself and report progress briefly. Do not stop to ask for permission on ordinary engineering work.
+3. **Pause only for what only the user can do:** entering secrets or API keys in the provider UI or local `.env`, anything that spends money or sends real SMS/payments, signing in or granting deploy access, and destructive actions on existing data. When paused, say exactly what is needed, continue with every gate that does not depend on it, and resume when it is provided.
+
 ## Scope first
 
 Inspect the repository, its existing stack and the user's request before choosing a path. Keep the existing stack and conventions. The Django-specific steps below apply to new projects and to existing Python/Django projects; for another stack, apply the same gates with that stack's equivalents and do not migrate the project to Django or PostgreSQL without explicit approval. Deployment steps run only when deployment is requested.
